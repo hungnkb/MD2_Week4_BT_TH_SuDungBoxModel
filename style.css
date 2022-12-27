@@ -1,0 +1,21 @@
+body {
+    width: 730px;
+    height: 315px;
+}
+
+p {
+    border: rgb(196, 2, 2) 3px dotted;
+}
+
+#p3 {
+    margin-top: 40px;
+}
+
+div {
+    padding: 10px 10px 50px 10px;
+    border: red solid;
+    border-top: 10px greenyellow solid;
+    border-right: 10px cyan solid;
+    border-bottom: 10px blue solid;
+    border-left: 10px purple solid;
+}
